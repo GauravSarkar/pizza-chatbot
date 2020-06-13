@@ -1,0 +1,9 @@
+{
+  "id": "fa43ae0d-6b96-41ac-a43f-89688ea33f89",
+  "name": "pizza_training",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

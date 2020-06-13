@@ -1,0 +1,38 @@
+[
+  {
+    "value": "pepper",
+    "synonyms": [
+      "pepper"
+    ]
+  },
+  {
+    "value": "mushroom",
+    "synonyms": [
+      "mushroom"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese"
+    ]
+  },
+  {
+    "value": "papperoni",
+    "synonyms": [
+      "papperoni"
+    ]
+  },
+  {
+    "value": "jalapeno",
+    "synonyms": [
+      "jalapeno"
+    ]
+  },
+  {
+    "value": "vegetable",
+    "synonyms": [
+      "vegetable"
+    ]
+  }
+]
